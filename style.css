@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: burlywood;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-left: 60px;
+}
+
+/* INICIO INFO*/
+.info{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+}
+
+/* Fondo */
+.contenido{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Texto */
+.datos{
+    width: 20%;
+    height: 100%;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+/* Inicio Profile */
+
+/* Inicio Education */
+
+/* Inicio Experience */
