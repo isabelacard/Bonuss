@@ -51,6 +51,8 @@ body{
     width: 90%;
     height: 100%;
     background-color: white;
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
 }
 
 .perfiltitulo{
@@ -83,6 +85,43 @@ body{
     padding-right: 50px; 
 }
 
-/* INICIO EDUCATION */
+/* INICIO EDUCATION (mirar fotos de la clase) */ 
+
+.education{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
+}
+
+.educationtitle{
+    margin-left: 70px;
+    margin-top: 40px;
+    width: 40%;
+}
+
+.contenedoreducation{
+    display: flex;
+}
+
+.bachelor{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+.master{
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 70px;
+}
+
+.borde{
+    border-left: 3px solid black;
+}
+
 
 /* INICIO EXPERIENCE */
