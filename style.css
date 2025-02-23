@@ -207,3 +207,60 @@ body{
     margin-left: 70px;
     margin-top: 40px;
 }
+
+/* INICIO PROJECT */
+
+.projects{
+    background-color: white;
+    width: 90%;
+    height: 100%;
+}
+
+.projectstitle{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.contenedorprojects{
+    display: flex;
+}
+
+.weather{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+
+.ai{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+
+/* INICIO PROJECT 2 */
+
+.projects2{
+    background-color: white;
+    width: 90%;
+    height: 100%;
+}
+
+.contenedorprojects2{
+    display: flex;
+}
+
+.fingerprint{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+
+.credit{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 30px;
+}
