@@ -98,7 +98,6 @@ body{
 .educationtitle{
     margin-left: 70px;
     margin-top: 40px;
-    width: 40%;
 }
 
 .contenedoreducation{
@@ -108,14 +107,14 @@ body{
 .bachelor{
     text-align: justify;
     padding-left: 70px;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-right: 30px;
 }
 
 .master{
     text-align: justify;
     padding-left: 30px;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-right: 70px;
 }
 
@@ -125,3 +124,59 @@ body{
 
 
 /* INICIO EXPERIENCE */
+
+.experience1{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+}
+
+.experiencetitle{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.contenedorexperience1{
+    display: flex;
+}
+
+.accenture{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+.capgemini{
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 70px;
+}
+
+/* 2DA PARTE EXPERIENCE  */
+
+.experience2{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+    padding-bottom: 60px;
+}
+
+.contenedorexperience2{
+    display: flex;
+}
+
+.cisco{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+
+.microsoft{
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 70px;
+}
