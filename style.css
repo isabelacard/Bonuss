@@ -264,3 +264,29 @@ body{
     padding-top: 50px;
     padding-right: 30px;
 }
+
+/* INICIO LENGUAJE Y CERTIFICACION*/
+
+.lenguajeycertification{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+}
+
+.contenedorlenguajeycertificacion{
+    display: flex;
+}
+
+.lenguajetitle{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+
+.lenguaje{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+
+/* HOBBIES */
