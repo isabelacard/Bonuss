@@ -317,16 +317,17 @@ body{
 }
 
 .fa-solid{
-    width: 150px;
+    width: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 20px;
     padding-left: 20px;
+    margin-left: 70px;
 }
 
 .texthobbies{
-    width: 100px;
+    width: 150px;
     align-items: center;
     text-align: center;
     padding-top: 20px;
