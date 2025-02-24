@@ -224,6 +224,7 @@ body{
     background-color: white;
     width: 90%;
     height: 100%;
+    
 }
 
 .projectstitle{
@@ -247,6 +248,7 @@ body{
     padding-left: 30px;
     padding-top: 50px;
     padding-right: 70px;
+    
 }
 
 /* INICIO PROJECT 2 */
@@ -255,6 +257,8 @@ body{
     background-color: white;
     width: 90%;
     height: 100%;
+    border-bottom: 3px solid black;
+    padding-bottom: 40px;
 }
 
 .contenedorprojects2{
@@ -277,10 +281,14 @@ body{
 
 /* INICIO LENGUAJE Y CERTIFICACION*/
 
+/* lenguaje solamente */
+
 .lenguajeycertification{
     width: 90%;
     height: 100%;
     background-color: white;
+    border-bottom: 3px solid black;
+    padding-bottom: 40px;
 }
 
 .contenedorlenguajeycertificacion{
@@ -296,8 +304,31 @@ body{
 .lenguaje{
     margin-left: 70px;
     margin-top: 40px;
+    margin-right: 56px;
 }
 
+/* certificacion solamente */
+
+
+.contenedorcertificacion{
+    display: flex;
+}
+
+.certificaciontitle{
+    margin-top: -30px;
+    padding-left: 30px;
+}
+
+.certified{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.azure{
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 60px;
+}
 
 /* HOBBIES */
 
@@ -334,3 +365,4 @@ body{
     padding-bottom: 30px;
     padding-left: 20px;
 }
+
