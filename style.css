@@ -244,9 +244,9 @@ body{
 
 .ai{
     text-align: justify;
-    padding-left: 70px;
+    padding-left: 30px;
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 70px;
 }
 
 /* INICIO PROJECT 2 */
@@ -270,9 +270,9 @@ body{
 
 .credit{
     text-align: justify;
-    padding-left: 70px;
+    padding-left: 30px;
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 70px;
 }
 
 /* INICIO LENGUAJE Y CERTIFICACION*/
@@ -300,3 +300,36 @@ body{
 
 
 /* HOBBIES */
+
+.hobbies{
+    background-color: white;
+    width: 90%;
+    height: 100%;
+}
+
+.hobbiestitle{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.contenedorhobbies{
+    display: flex;
+}
+
+.fa-solid{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.texthobbies{
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
