@@ -214,7 +214,7 @@ body{
 
 
 #file{
-    width: 353px;
+    width: 355px;
     margin-left: 10px;
 }
 
@@ -300,11 +300,13 @@ body{
     margin-top: 40px;
 }
 
+.certificationsolo{
+    margin-left: 55px;
+}
 
 .lenguaje{
     margin-left: 70px;
     margin-top: 40px;
-    margin-right: 56px;
 }
 
 /* certificacion solamente */
@@ -327,7 +329,7 @@ body{
 .azure{
     padding-left: 30px;
     padding-top: 20px;
-    padding-right: 60px;
+    padding-right: 50px;
 }
 
 /* HOBBIES */
